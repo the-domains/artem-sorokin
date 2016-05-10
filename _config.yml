@@ -2,12 +2,13 @@ name: artem-sorokin
 favicon: null
 layout_spectrum: 0.3701854932587594
 typography_spectrum: 0.5210634409449995
+title: 'Artem Sorokin - Entrepreneur, Software Engineer, Social & Politics'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77515843-1
   facebook: null
   twitter: null
 opengraph:
