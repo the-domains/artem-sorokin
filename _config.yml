@@ -1,0 +1,28 @@
+name: artem-sorokin
+favicon: null
+layout_spectrum: 0.3701854932587594
+typography_spectrum: 0.5210634409449995
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7618725385982543
+  lightness: 0.6835679360665381
+  saturation: 0.854675849666819
+  rhythmicContrast: 0.9835959195625037
+purpose: []
